@@ -4,7 +4,7 @@
  I made a weather forecast app with Flutter. I preferred to keep minimal UI. Simple two-screen. Weather screen and search city screen.
 
 If you want to run code, you need to set your API key in the WeatherService.dart file.
-Or you can download it from Apple AppStore or Google PlayStore.
+Or you can download it from [Apple AppStore](https://apps.apple.com/us/app/simple-weather-app-minimalist/id6470280702 "Apple AppStore") or[ Google PlayStore](https://play.google.com/store/apps/details?id=com.muratbaykor.simple_weather_app " Google PlayStore").
 
 
 
